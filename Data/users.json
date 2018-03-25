@@ -1,0 +1,22 @@
+[
+  {
+    "userId": 1,
+    "userName": "Bhavik",
+    "password": "bhavik",
+    "firstName": "Bhavik",
+    "lastName": "Patel",
+    "dateOfBirth": "1989-09-09",
+    "countryCode": "IN",
+    "active": true
+  },
+  {
+    "userId": 2,
+    "userName": "Abhishek",
+    "password": "abhishek",
+    "firstName": "Abhishek",
+    "lastName": "Prajapati",
+    "dateOfBirth": "1990-08-20",
+    "countryCode": "IN",
+    "active": false
+  }
+]
